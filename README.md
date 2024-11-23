@@ -33,7 +33,8 @@ In order to compete in "Expo Ingenierias" that year we added the functions to ca
 
 ## Recicled Materials - Extra
 
-During the course we manufactured the maze using reciled materials, the most challenging ones were PP (polypropylene) and PLA (polylactic acid). 
+During the course we manufactured the track using reciled materials, the most challenging ones were PP (polypropylene) and PLA (polylactic acid).
+[Here](https://conecta.tec.mx/es/noticias/queretaro/sostenibilidad/revalorizando-tec-qro-le-da-segunda-vida-al-plastico-desechable) you'll find the link to the project. 
 
 <img src="./images/Pista_1.jpg" alt="Gripper" width="250"/>
 <img src="./images/Pista_2.jpg" alt="Gripper" width="250"/>
